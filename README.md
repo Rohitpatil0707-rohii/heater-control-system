@@ -6,12 +6,12 @@ This project simulates a **smart heater control system** using an **Arduino Uno*
 
 ## 🧰 Features
 
-- ✅ Temperature Monitoring using **DHT22 Sensor**
-- ✅ Real-time **state display** on I2C LCD
-- ✅ **Heater control** using relay module
-- ✅ **Buzzer alerts** for Overheat & Target Reached
-- ✅ Efficient **timer interrupt** using `TimerOne` library
-- ✅ Fully tested on **Wokwi simulator**
+- Temperature Monitoring using **DHT22 Sensor**
+- Real-time **state display** on I2C LCD
+- "Heater control" using relay module
+- "Buzzer alerts" for Overheat & Target Reached
+- Efficient **timer interrupt** using `TimerOne` library
+- Fully tested on **Wokwi simulator**
 
 ---
 
